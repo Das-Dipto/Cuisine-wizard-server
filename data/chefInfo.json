@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1111,
+        "name":"Bobby Flay",
+        "picture": "https://i.ibb.co/VLG5h4z/bobby-flay.webp",
+        "experience" : 15,
+        "receipes" : 12,
+        "likes" : 5,
+        "description" : "Meet Chef Bobby Flay, a renowned American chef with over 15 years of culinary experience. Chef John began his journey in the food industry by attending the prestigious Culinary Institute of America, where he honed his skills and developed a passion for creating unique and delicious dishes.Throughout his career, Chef John has worked in some of the country's top restaurants, including New York's famed Gramercy Tavern and San Francisco's Michelin-starred Quince. His innovative and inventive approach to cooking has earned him widespread acclaim, and he has been recognized with numerous awards and accolades."
+    },
+
+    {
+        "id" : 2222,
+        "name" : "David Chang",
+        "picture" : "https://i.ibb.co/JdS49pq/david-chang.webp",
+        "experience" : 8,
+        "receipes" : 10,
+        "likes" : 4,
+        "description" : "Meet Chef David Chang, an American-born Chinese ethnic chef with 8 years of experience in the culinary industry. Chef Lisa grew up in a household where food was the centerpiece of every family gathering, and this early exposure sparked her interest in cooking.After graduating from culinary school, Chef Lisa began her career working in various restaurants, including some of New York City's top Chinese restaurants. Her passion for blending traditional Chinese flavors with modern techniques quickly made her a rising star in the industry."
+    }
+
+]
