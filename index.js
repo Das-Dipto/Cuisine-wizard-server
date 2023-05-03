@@ -7,7 +7,6 @@ const chefInfo = require('./data/chefInfo.json');
 const receipeInfo = require('./data/receipeInfo.json');
 
 
-
 app.use(cors());
 
 app.get('/', (req, res) => {
