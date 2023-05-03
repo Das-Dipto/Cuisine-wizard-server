@@ -7,6 +7,7 @@
                 "receipeName" : "Grilled Salmon",
                 "receipePicture" : "https://i.ibb.co/FxSBqgd/grilled-salmon.jpg",
                 "ingredients" : [ "Salmon fillets", "Olive oil", "Salt and pepper", "Lemon Juice", "Garlic"],
+                "rating":"8/10",
                 "cookingMethod" : "Brush the salmon fillets with olive oil, season with salt and pepper, and grill over medium-high heat for 4-5 minutes per side. Squeeze lemon juice over the cooked salmon and serve. Optionally, sprinkle minced garlic on the fillets before grilling for extra flavor."
             },
             {
@@ -14,6 +15,7 @@
                 "receipeName" : "Barbecue ribs",
                 "receipePicture" : "https://i.ibb.co/H2M3H7K/barbeque-ribs.webp",
                 "ingredients":["Steak", "Garlic", "Olive oil", "Butter", "Salt and Pepper"],
+                "rating" : "7/10",
                 "cookingMethod" : "To cook barbeque ribs, preheat the grill to medium heat. Season the ribs with your favorite dry rub or marinade, and grill for about 2 hours, basting occasionally with your favorite barbeque sauce. Ribs are done when the internal temperature reaches 145°F."
             },
             {
@@ -21,6 +23,7 @@
                 "receipeName" : "Lobster",
                 "receipePicture" : "https://i.ibb.co/QJjXgqD/lobster.jpg",
                 "ingredients" : ["Lobster", "Butter", "Garlic", "Lemon", "Herbs"],
+                "rating" : "9/10",
                 "cookingMethod" : "To cook lobster, boil it in salted water until it turns bright red and the shell is firm. In a separate pan, melt butter, add garlic, lemon juice, and herbs. Serve the lobster with the butter sauce on the side."
             }
         ]
@@ -33,6 +36,7 @@
                 "receipeName" :"Turkey Roast",
                 "receipePicture" : "https://i.ibb.co/DGwhXyD/Roast-turkey.jpg",
                 "ingredients" : ["Turkey", "Butter or oil", "Herbs", "Aromatics", "Stock or broth"],
+                "rating" : "8.5/10",
                 "cookingMethod" : "To roast a turkey, season it with salt, pepper, and herbs. Baste with melted butter or oil, and place in the oven. Roast for about 13-15 minutes per pound until the internal temperature reaches 165°F (75°C). Baste every 30 minutes, and let it rest before carving."
             },
             {
@@ -40,6 +44,7 @@
                 "receipeName" : "Southern Fried Chicken",
                 "receipePicture": "https://i.ibb.co/sQhWfFP/southern-fried-chicken.jpg",
                 "ingredients" : ["Chicken pieces", "All purpose flour", "Salt", "Black pepper", "Vegetable oil"],
+                "rating" : "7.5/10",
                 "cookingMethod" : "To make southern fried chicken, marinate chicken in buttermilk, coat in seasoned flour, and fry in hot oil until golden brown and cooked through. Fry for 12-15 minutes, taking care not to overcrowd the pan." 
             },
             {
@@ -47,6 +52,7 @@
                 "receipeName":"Grilled Steak Chimichurri ",
                 "receipePicture" : "https://i.ibb.co/dpfsSHm/flank-steak-with-chimichurri-recipe.jpg",
                 "ingredients" : ["Sirloin Steaks", "Fresh Parsley", "Garlic Cloves", "Oregano leaves", "Wine Vinegar"],
+                "rating" : "6/10",
                 "cookingMethod" : "Season steaks with salt and pepper, grill on high heat for 4-5 minutes per side for medium-rare. In a food processor, pulse parsley, oregano, garlic, and red wine vinegar. Gradually add olive oil until smooth. Serve chimichurri sauce over grilled steaks."
             }
 
@@ -60,6 +66,7 @@
                 "receipeName" : "Red Velvet Cake",
                 "receipePicture" : "https://i.ibb.co/DkDms27/Red-Velvet-Cake.jpg",
                 "ingredients" : ["All purpose flour", "Cocoa powder", "Butter milk", "Red food coloring", "Cream Cheese"],
+                "rating" : "8/10",
                 "cookingMethod" : "To make a classic red velvet cake, you need all-purpose flour, cocoa powder, buttermilk, red food coloring, and cream cheese. Other common ingredients include sugar, butter, eggs, baking powder, baking soda, vanilla extract, and salt."
             },
             {
@@ -67,6 +74,7 @@
                 "receipeName" : "Apple Pie",
                 "receipePicture" : "https://i.ibb.co/dBjqyLn/apple-pie.jpg",
                 "ingredients" : ["Apple", "Pie crust", "Sugar", "Spices", "Butter"],
+                "rating" : "9/10",
                 "cookingMethod" : "To make apple pie, first prepare the crust and slice the apples. Mix the apples with sugar and spices, and fill the pie crust. Dot with butter and add the top crust. Bake at 375°F for about 45-50 minutes, until golden brown and bubbly."
             },
             {
@@ -74,6 +82,7 @@
                 "receipeName" : "Cheesecake",
                 "receipePicture" : "https://i.ibb.co/4NLXkqq/cheesecake.jpg",
                 "ingredients" : ["Cream Cheese", "Granulated Sugar", "Eggs", "Vanilla Extract", "Sour Cream"],
+                "rating" : "10/10",
                 "cookingMethod" : "To make a basic cheesecake, preheat the oven to 325°F and prepare the crust by mixing graham cracker crumbs, sugar, and melted butter. Press the mixture into a greased 9-inch springform pan. In a mixing bowl, beat cream cheese, sugar, eggs, vanilla, and sour cream until smooth. Pour the mixture onto the crust and bake for about 50-60 minutes. Turn off the oven and let the cheesecake cool inside for 1 hour. Chill in the refrigerator for at least 4 hours before serving."
             }
         ]
@@ -86,6 +95,7 @@
                 "receipeName" : "Grilled Salmon",
                 "receipePicture" : "https://i.ibb.co/FxSBqgd/grilled-salmon.jpg",
                 "ingredients" : [ "Salmon fillets", "Olive oil", "Salt and pepper", "Lemon Juice", "Garlic"],
+                "rating" : "8/10",
                 "cookingMethod" : "Brush the salmon fillets with olive oil, season with salt and pepper, and grill over medium-high heat for 4-5 minutes per side. Squeeze lemon juice over the cooked salmon and serve. Optionally, sprinkle minced garlic on the fillets before grilling for extra flavor."
             },
             {
@@ -93,6 +103,7 @@
                 "receipeName" : "Barbecue ribs",
                 "receipePicture" : "https://i.ibb.co/H2M3H7K/barbeque-ribs.webp",
                 "ingredients":["Steak", "Garlic", "Olive oil", "Butter", "Salt and Pepper"],
+                "rating" : "10/10",
                 "cookingMethod" : "To cook barbeque ribs, preheat the grill to medium heat. Season the ribs with your favorite dry rub or marinade, and grill for about 2 hours, basting occasionally with your favorite barbeque sauce. Ribs are done when the internal temperature reaches 145°F."
             },
             {
@@ -100,6 +111,7 @@
                 "receipeName" : "Lobster",
                 "receipePicture" : "https://i.ibb.co/QJjXgqD/lobster.jpg",
                 "ingredients" : ["Lobster", "Butter", "Garlic", "Lemon", "Herbs"],
+                "rating" : "9/10",
                 "cookingMethod" : "To cook lobster, boil it in salted water until it turns bright red and the shell is firm. In a separate pan, melt butter, add garlic, lemon juice, and herbs. Serve the lobster with the butter sauce on the side."
             }
         ]
@@ -112,6 +124,7 @@
                 "receipeName" :"Turkey Roast",
                 "receipePicture" : "https://i.ibb.co/DGwhXyD/Roast-turkey.jpg",
                 "ingredients" : ["Turkey", "Butter or oil", "Herbs", "Aromatics", "Stock or broth"],
+                "rating" : "10/10",
                 "cookingMethod" : "To roast a turkey, season it with salt, pepper, and herbs. Baste with melted butter or oil, and place in the oven. Roast for about 13-15 minutes per pound until the internal temperature reaches 165°F (75°C). Baste every 30 minutes, and let it rest before carving."
             },
             {
@@ -119,6 +132,7 @@
                 "receipeName" : "Southern Fried Chicken",
                 "receipePicture": "https://i.ibb.co/sQhWfFP/southern-fried-chicken.jpg",
                 "ingredients" : ["Chicken pieces", "All purpose flour", "Salt", "Black pepper", "Vegetable oil"],
+                "rating" : "9/10",
                 "cookingMethod" : "To make southern fried chicken, marinate chicken in buttermilk, coat in seasoned flour, and fry in hot oil until golden brown and cooked through. Fry for 12-15 minutes, taking care not to overcrowd the pan." 
             },
             {
@@ -126,6 +140,7 @@
                 "receipeName":"Grilled Steak Chimichurri ",
                 "receipePicture" : "https://i.ibb.co/dpfsSHm/flank-steak-with-chimichurri-recipe.jpg",
                 "ingredients" : ["Sirloin Steaks", "Fresh Parsley", "Garlic Cloves", "Oregano leaves", "Wine Vinegar"],
+                "rating" : "8/10",
                 "cookingMethod" : "Season steaks with salt and pepper, grill on high heat for 4-5 minutes per side for medium-rare. In a food processor, pulse parsley, oregano, garlic, and red wine vinegar. Gradually add olive oil until smooth. Serve chimichurri sauce over grilled steaks."
             }
 
@@ -139,6 +154,7 @@
                 "receipeName" : "Red Velvet Cake",
                 "receipePicture" : "https://i.ibb.co/DkDms27/Red-Velvet-Cake.jpg",
                 "ingredients" : ["All purpose flour", "Cocoa powder", "Butter milk", "Red food coloring", "Cream Cheese"],
+                "rating" : "10/10",
                 "cookingMethod" : "To make a classic red velvet cake, you need all-purpose flour, cocoa powder, buttermilk, red food coloring, and cream cheese. Other common ingredients include sugar, butter, eggs, baking powder, baking soda, vanilla extract, and salt."
             },
             {
@@ -146,6 +162,7 @@
                 "receipeName" : "Apple Pie",
                 "receipePicture" : "https://i.ibb.co/dBjqyLn/apple-pie.jpg",
                 "ingredients" : ["Apple", "Pie crust", "Sugar", "Spices", "Butter"],
+                "rating" : "9.5/10",
                 "cookingMethod" : "To make apple pie, first prepare the crust and slice the apples. Mix the apples with sugar and spices, and fill the pie crust. Dot with butter and add the top crust. Bake at 375°F for about 45-50 minutes, until golden brown and bubbly."
             },
             {
@@ -153,6 +170,7 @@
                 "receipeName" : "Cheesecake",
                 "receipePicture" : "https://i.ibb.co/4NLXkqq/cheesecake.jpg",
                 "ingredients" : ["Cream Cheese", "Granulated Sugar", "Eggs", "Vanilla Extract", "Sour Cream"],
+                "rating" : "10/10",
                 "cookingMethod" : "To make a basic cheesecake, preheat the oven to 325°F and prepare the crust by mixing graham cracker crumbs, sugar, and melted butter. Press the mixture into a greased 9-inch springform pan. In a mixing bowl, beat cream cheese, sugar, eggs, vanilla, and sour cream until smooth. Pour the mixture onto the crust and bake for about 50-60 minutes. Turn off the oven and let the cheesecake cool inside for 1 hour. Chill in the refrigerator for at least 4 hours before serving."
             }
         ]

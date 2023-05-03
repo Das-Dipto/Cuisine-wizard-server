@@ -4,7 +4,7 @@ const cors = require('cors');
 const port = process.env.PORT || 5000;
 
 const chefInfo = require('./data/chefInfo.json');
-
+const receipeInfo = require('./data/receipeInfo.json');
 
 
 
@@ -17,6 +17,11 @@ app.get('/', (req, res) => {
 app.get('/chefinfo', (req, res) => {
     res.send(chefInfo);
 })
+
+app.get('/receipeinfo', (req, res) => {
+    res.send(receipeInfo);
+})
+
 
 // app.get('/news/:id', (req, res) => {
 //     const id = req.params.id;
