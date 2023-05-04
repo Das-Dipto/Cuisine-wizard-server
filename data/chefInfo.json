@@ -6,7 +6,7 @@
         "experience" : 15,
         "receipes" : 12,
         "likes" : "20K",
-        "description" : "Meet Chef Bobby Flay, a renowned American chef with over 15 years of culinary experience. Chef John began his journey in the food industry by attending the prestigious Culinary Institute of America, where he honed his skills and developed a passion for creating unique and delicious dishes.Throughout his career, Chef John has worked in some of the country's top restaurants, including New York's famed Gramercy Tavern and San Francisco's Michelin-starred Quince. His innovative and inventive approach to cooking has earned him widespread acclaim, and he has been recognized with numerous awards and accolades."
+        "description" : "Meet Chef Bobby Flay, a renowned American chef with over 15 years of culinary experience. Chef Bobby began his journey in the food industry by attending the prestigious Culinary Institute of America, where he honed his skills and developed a passion for creating unique and delicious dishes.Throughout his career, Chef Bobby has worked in some of the country's top restaurants, including New York's famed Gramercy Tavern and San Francisco's Michelin-starred Quince. His innovative and inventive approach to cooking has earned him widespread acclaim, and he has been recognized with numerous awards and accolades."
     },
 
     {
@@ -16,7 +16,7 @@
         "experience" : 8,
         "receipes" : 10,
         "likes" : "14K",
-        "description" : "Meet Chef David Chang, an American-born Chinese ethnic chef with 8 years of experience in the culinary industry. Chef Lisa grew up in a household where food was the centerpiece of every family gathering, and this early exposure sparked her interest in cooking.After graduating from culinary school, Chef Lisa began her career working in various restaurants, including some of New York City's top Chinese restaurants. Her passion for blending traditional Chinese flavors with modern techniques quickly made her a rising star in the industry."
+        "description" : "Meet Chef David Chang, an American-born Chinese ethnic chef with 8 years of experience in the culinary industry. Chef David grew up in a household where food was the centerpiece of every family gathering, and this early exposure sparked her interest in cooking.After graduating from culinary school, Chef David began her career working in various restaurants, including some of New York City's top Chinese restaurants. Her passion for blending traditional Chinese flavors with modern techniques quickly made her a rising star in the industry."
     },
 
     {
@@ -26,7 +26,7 @@
         "experience" : 24,
         "receipes" : 18,
         "likes" : "28K",
-        "description" : "Meet Chef Thomas Keller, a veteran American chef with over 24 years of experience in the culinary industry. Chef Johnson's passion for cooking began at a young age, inspired by his grandmother's homemade meals and his love for exploring new flavors and ingredients.Chef Johnson has received numerous accolades throughout his career, including several James Beard Award nominations and a coveted spot on the Food & Wine magazine's Best New Chefs list. He has also appeared on numerous television shows, sharing his expertise and passion for cooking with audiences across the country."
+        "description" : "Meet Chef Thomas Keller, a veteran American chef with over 24 years of experience in the culinary industry. Chef Thomas's passion for cooking began at a young age, inspired by his grandmother's homemade meals and his love for exploring new flavors and ingredients.Chef Thomas has received numerous accolades throughout his career, including several James Beard Award nominations and a coveted spot on the Food & Wine magazine's Best New Chefs list. He has also appeared on numerous television shows, sharing his expertise and passion for cooking with audiences across the country."
     },
 
     {
@@ -36,7 +36,7 @@
         "experience" : 20,
         "receipes" : 14,
         "likes" : "18K",
-        "description" : "Introducing Barbara Lynch, a talented American chef with over 14 years of experience in the culinary industry. Chef Rodriguez's love for cooking began at a young age, watching her mother and grandmother prepare meals in their kitchen. This passion led her to pursue a career in the culinary arts, and she has since become a respected figure in the industry.After graduating from culinary school, Chef Rodriguez worked her way up through some of the top restaurants in the country, including a Michelin-starred establishment in New York City. She has also traveled extensively, exploring different cuisines and cultures and incorporating these experiences into her own cooking style."
+        "description" : "Introducing Barbara Lynch, a talented American chef with over 14 years of experience in the culinary industry. Chef Barbara's love for cooking began at a young age, watching her mother and grandmother prepare meals in their kitchen. This passion led her to pursue a career in the culinary arts, and she has since become a respected figure in the industry.After graduating from culinary school, Chef Barbara worked her way up through some of the top restaurants in the country, including a Michelin-starred establishment in New York City. She has also traveled extensively, exploring different cuisines and cultures and incorporating these experiences into her own cooking style."
     },
 
     {
@@ -46,7 +46,7 @@
         "experience" : 12,
         "receipes" : 16,
         "likes" : "17K",
-        "description" : "Meet Chef Cat Cora, a highly skilled American professional chef with 12 years of experience in the culinary industry. Chef Davis discovered her love for cooking at a young age, experimenting with flavors and ingredients in her family's kitchen. Her passion for food led her to pursue formal culinary training, where she honed her skills and developed her own unique style.Chef Davis has received numerous accolades throughout her career, including a coveted spot on Forbes '30 Under 30' list in the food and drink category. She has also been featured in top culinary publications, sharing her expertise and passion for cooking with a wider audience"
+        "description" : "Meet Chef Cat Cora, a highly skilled American professional chef with 12 years of experience in the culinary industry. Chef Cora discovered her love for cooking at a young age, experimenting with flavors and ingredients in her family's kitchen. Her passion for food led her to pursue formal culinary training, where she honed her skills and developed her own unique style.Chef Davis has received numerous accolades throughout her career, including a coveted spot on Forbes '30 Under 30' list in the food and drink category. She has also been featured in top culinary publications, sharing her expertise and passion for cooking with a wider audience"
     },
 
     {
@@ -56,8 +56,7 @@
         "experience" : 30,
         "receipes" : 25,
         "likes" : "35K",
-        "description" : "introduce you to Jennifer Jasinki, a highly acclaimed and respected veteran in the culinary industry. With over 30 years of experience as an American chef, Chef Lee has become a household name and a trailblazer in her field.Over the years, Jasinki Lee has won numerous culinary awards and recognitions, including several James Beard Awards and a coveted spot on the Food & Wine magazine's Best New Chefs list. Her innovative approach to classic dishes and use of fresh, locally-sourced ingredients has earned her widespread acclaim and a loyal following of food enthusiasts."
+        "description" : "Introduce you to Jennifer Jasinki, a highly acclaimed and respected veteran in the culinary industry. With over 30 years of experience as an American chef, Chef Lee has become a household name and a trailblazer in her field.Over the years, Jasinki Lee has won numerous culinary awards and recognitions, including several James Beard Awards and a coveted spot on the Food & Wine magazine's Best New Chefs list. Her innovative approach to classic dishes and use of fresh, locally-sourced ingredients has earned her widespread acclaim and a loyal following of food enthusiasts."
     }
-
 
 ]
